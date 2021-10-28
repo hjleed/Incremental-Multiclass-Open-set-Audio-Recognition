@@ -46,24 +46,21 @@ The following open source packages are used in this project:
 }
 
 %------------------------------------------------    
-\cventry
-{} % Job title
+
 {\faBook Journal Articles} % Organization
-{} % Location
-{} % Date(s)
-{ % Description(s) of tasks/responsibilities
+
+
 \begin{itemize}
     \item {(2021a) "Incremental Multiclass Open-set for Audio Recognition," in \textit{IEEE Access},Unpublished manuscript.}
     \item {(2020) "Open Set Audio Recognition for Multi-Class Classification With Rejection," in \textit{IEEE Access}, vol. 8, pp. 146523-146534, doi: 10.1109/ACCESS.2020.3015227.}
 \end{itemize}
-}
+
 %------------------------------------------------
-\cventry
-{} % Job title
+
+
 {\faUsers Conference Proceedings} % Organization
-{} % Location
-{} % Date(s)
-{ % Description(s) of tasks/responsibilities
+
+
 \begin{itemize}
     \item {(2017). {\it Acoustic environment classification using discrete Hartley transform features.} In 2017 IEEE 30th Canadian conference on electrical and computer engineering (CCECE) (pp. 1–4). IEEE.}
     \item {(2014b). {\it Design, simulate and approximate parallel coupled micro-strip band-pass filter at 2.4 GHz.} In 2014 world congress on computer applications and information systems (WCCAIS) (pp. 1–5). IEEE.}
@@ -72,22 +69,18 @@ The following open source packages are used in this project:
      \item {(2013c). {\it Face recognition system based on template matching in frequency domain.} In 2013 BCS international it conference (pp. 13–16).}
      \item {(2011). {\it Prediction of coding region in the DNA sequences.} In 2011 IEEE international conference on systems, man, and cybernetics (pp. 1128–1133). IEEE.}
 \end{itemize}
-}
+
 %------------------------------------------------
-\cventry
-{} % Job title
+
 {\faCubes Projects} % Organization
-{} % Location
-{} % Date(s)
-{ % Description(s) of tasks/responsibilities
+
 \begin{itemize}
     \item {(2014a). {\it Beamforming: Speech interference cancellation.} University of Ottawa.}
     \item {(2011a). {\it De-noising of 3d and fractal images using polynomial thresholding.} The University of Texas at San Antonio.}
     \item {(2010). {\it Harvesting coefficients for quality image compression.} The University of Texas at San Antonio.}
 \end{itemize}
-}
 
-\end{cventries}
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- CONTRIBUTORS -->
