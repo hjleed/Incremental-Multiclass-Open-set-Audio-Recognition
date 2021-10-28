@@ -1,11 +1,11 @@
 <p align="center"> 
-  <img src="https://miro.medium.com/max/1400/1*LMeN7c8posQaB9PuPh5kCA.png" alt="AR Logo" width="80px" height="80px">
+  <img src="https://miro.medium.com/max/1400/1*LMeN7c8posQaB9PuPh5kCA.png" alt="AR Logo" width="120px" height="80px">
 </p>
 <h1 align="center"> 
 Incremental-Multiclass-Open-set-Audio-Recognition </h1>
 
 <p align="center"> 
-  <img src="https://github.com/hjleed/Incremental-Multiclass-Open-set-Audio-Recognition/blob/main/Diagram_fig2.png" alt="Diagram" width="80px" height="80px">
+  <img src="https://github.com/hjleed/Incremental-Multiclass-Open-set-Audio-Recognition/blob/main/Diagram_fig2.png" alt="Diagram" width="500px" height="200px">
 </p>
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <!-- PREREQUISITES -->
