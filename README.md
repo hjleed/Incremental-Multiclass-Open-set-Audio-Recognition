@@ -7,6 +7,7 @@ Incremental-Multiclass-Open-set-Audio-Recognition </h1>
 <p align="center"> 
   <img src="https://github.com/hjleed/Incremental-Multiclass-Open-set-Audio-Recognition/blob/main/Diagram_fig2.png" alt="Diagram" width="500px" height="200px">
 </p>
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <!-- PREREQUISITES -->
 <h2 id="prerequisites"> :fork_and_knife: Prerequisites</h2>
