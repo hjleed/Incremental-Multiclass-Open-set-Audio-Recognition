@@ -32,18 +32,16 @@ The following open source packages are used in this project:
 
 %------------------------------------------------
 %\Section{\faGraduationCap   Theses}
-\cventry
-{} % Job title
+
 {\faGraduationCap   Theses} % Organization
-{} % Location
-{} % Date(s)
-{ % Description(s) of tasks/responsibilities
-\begin{itemize}
-\item {(2021b). Audio Recognition in Incremental open-world Scenario [Unpublished doctoral dissertation]. University of Ottawa.}
-\item {(2011b) \textit{Eukaryotic Gene Prediction} [Master’s thesis , The University of Texas at San Antonio]. ProQuest Publishing.}
-\item {(2004). \textit{Optimizing the efficiency of a solar panel tracking system}  [ Bachelor's thesis, Sebha University].}
-\end{itemize}
-}
+
+<ul>
+  <li>
+<p>{(2021b). Audio Recognition in Incremental open-world Scenario [Unpublished doctoral dissertation]. University of Ottawa.}
+{(2011b) \textit{Eukaryotic Gene Prediction} [Master’s thesis , The University of Texas at San Antonio]. ProQuest Publishing.}
+{(2004). \textit{Optimizing the efficiency of a solar panel tracking system}  [ Bachelor's thesis, Sebha University].}
+    </p>
+  </li>
 
 %------------------------------------------------    
 
